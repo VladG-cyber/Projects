@@ -1,4 +1,4 @@
-# [Проект 0. Угадай число][https://github.com/VladG-cyber/Projects/blob/main/project_0/Копия_блокнота_baseline.ipynb]
+[Проект 0. Угадай число](https://github.com/VladG-cyber/Projects/blob/main/project_0/Копия_блокнота_baseline.ipynb)
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/VladG-cyber/game/blob/main/project_0/README.MD#Описание-проекта)  
